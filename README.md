@@ -16,9 +16,9 @@ Unique words: 204
 Sentences: 7
 '''
 
-
 ### Q2:
 Q2 [`q2.sql`](q2.sql) is my demonstration of a basic SQL query as specified in the problem statement.  I included the files [`salesperson.csv`](salesperson.csv) and [`orders.csv`](orders.csv) with the tables on which we do the query.
+
 
 ### Q3:
 My writeup for the Split-Test Analysis problem is a markdown file viewable at [`split_test_analysis.md`](split_test_analysis.md).
