@@ -28,7 +28,7 @@ Response to Variation 1 does not differ much from of that the baseline request f
 
 
 ### Recommendations
-Assuming that the sample was random (each type of recipient was selected was selected with equal probability), and that an equal number of each variation was sent out:
+Assuming that the sample was random (each type of recipient was selected with equal probability), and that an equal number of each variation was sent out:
 It appears that your best bet is to use variation 3, or continue to develop the improvements in that version.
 
 I would be curious to know how many of each variation were sent out, and which classes and categories were represented in the responses.  For example, how many people from each location viewed Variation 2? How many of each job category illicited a quote from each of the request variations? I would like to see the views and quotes numbers divided into classifications because it might be that efficacy of quote request depends on location or job category.  We might find that each variation has a niche, suggesting several targeted request forms.
