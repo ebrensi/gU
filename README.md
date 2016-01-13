@@ -18,6 +18,16 @@ Sentences: 7
 
 ### Q2:
 Q2 [`q2.sql`](q2.sql) is my demonstration of a basic SQL query as specified in the problem statement.  I included the files [`salesperson.csv`](salesperson.csv) and [`orders.csv`](orders.csv) with the tables on which we do the query.
+The result of running `source q2.sql` in MySQL is
+
+```
++------+
+| Name |
++------+
+| Bob  |
+| Dan  |
++------+
+```
 
 
 ### Q3:
